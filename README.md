@@ -1,6 +1,4 @@
-This isn't really an "official" portfolio site, 
-it's just an assignment for a summer program that I'm in.
-
-Feel free to look around though!
+#stopbreakingwindows
+Website developed with HTML, CSS and Bootstrap
 
 --Bilal B.
